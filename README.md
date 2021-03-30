@@ -10,5 +10,26 @@
 ## Descrição do Projeto
 <p align="justify">Projeto desenvolvido para calcular o índice de massa corporal </p>
    Status do Projeto: Concluído :heavy_check_mark: <br>
+   
+   ### Pré-requisitos para usar o app
+
+Antes de começar, você vai precisar ter instalado o ionic na sua máquina.
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o aplicativo
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/DevDiana/imc.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd imc
+
+# Rode o projeto
+$ ionic serve
+
+Pronto, agora é só testar :-)
+
+
 
 
