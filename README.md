@@ -24,6 +24,7 @@ $ git clone <https://github.com/DevDiana/imc.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd imc
+$ npm install ou yarn install
 
 # Rode o projeto
 $ ionic serve
